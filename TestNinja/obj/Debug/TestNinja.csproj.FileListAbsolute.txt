@@ -22,3 +22,4 @@ C:\Users\ghova_000\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\bin
 C:\Users\ghova_000\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ghova_000\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 C:\Users\ghova_000\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\ghova_000\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
