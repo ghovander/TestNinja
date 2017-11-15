@@ -32,6 +32,7 @@ namespace TestNinja.UnitTests
         //Writing robust unit tests: Think of method implementation as black box. Don't rely on method implementation.
         //Use TearDown: attribute for Integration tests such as when creating dummy data in database.
         //Trustworthy Tests: If tests are passing, perform a negative test and comment out a line or change a value in the method under test. If test does not fail, then most likely there is a problem with your tests.
+        //OR Test Driven development, so you know that tests are correct.
         [Test]
         [TestCase(2, 1, 2)]
         [TestCase(1, 2, 2)]
